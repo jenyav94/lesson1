@@ -6,9 +6,6 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
-import java.net.MalformedURLException;
-import java.net.URI;
-import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
 
